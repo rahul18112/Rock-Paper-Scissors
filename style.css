@@ -68,7 +68,7 @@ button{
     height: 4rem;
     width: 20rem;
     background-color:rgb(13, 104, 73);
-    color: rgb(255, 255, 255);
+    color: black;
     display:flex;
     justify-content: center;
     /* justify-items: center; */
@@ -84,3 +84,26 @@ button{
 .scores{
     gap: 2rem;
 }
+@media(max-width:320px){
+img{
+    width: 80px;
+}
+#message{
+    font-size: 20px;
+    width: 15rem;
+    margin-left: 2.5rem;
+}
+.score_board{
+    width: 15rem;
+    height:3rem ;
+    margin-left: 2.5rem; 
+    font-size:1rem; 
+    background-color: rgb(102, 230, 140);
+    color: black;
+}
+button{
+    width: 10rem;
+    margin-left: 5rem;
+    margin-top: 3rem;
+
+}}
