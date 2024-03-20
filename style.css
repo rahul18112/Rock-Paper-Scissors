@@ -1,0 +1,83 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+header{
+    color: rgb(237, 246, 246);
+    background-color: rgb(13, 25, 128);
+    text-align: center;
+    /* height: 30px;
+    padding: 20px; */
+    height: 4rem;
+    line-height: 4rem;
+    
+}
+.game{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    gap: 2rem;
+    
+
+}
+#paper:hover{
+    opacity: 50%;
+     cursor: pointer;
+     /* if we want to see change the on moving curser then use  */ 
+}
+#rock:hover{
+    opacity: 50%;
+    cursor: pointer;
+}
+#Scissors:hover{
+    opacity: 50%;
+    cursor: pointer;
+}
+#message{
+    height:3rem ;width: 30rem;
+    background-color:darksalmon;
+    margin-left: 20rem;
+    text-align: center;
+    line-height: 3rem;
+    font-size: 40px;
+    margin-top: .5rem;
+    border: 2px solid rgb(30, 154, 182);
+}
+
+button{
+    width: 13rem;
+    height: 4rem;
+    background-color: rgb(7, 85, 99);
+    color:white;
+    margin-top: 1rem;
+    margin-left: 29rem;
+    border: 2px solid black;
+    /* border-color: rgb(22, 182, 182); */
+    border-radius: 50%;
+
+
+
+    
+}
+.score_board{
+    height: 4rem;
+    width: 20rem;
+    background-color:rgb(13, 104, 73);
+    color: rgb(255, 255, 255);
+    display:flex;
+    justify-content: center;
+    /* justify-items: center; */
+    /* justify-self: center; */
+    gap: 2rem;
+    margin-top: 1rem;
+    margin-left: 25rem; 
+     font-size:1.5rem; 
+    /* font-weight: 500; */
+    /* font-style: ; */
+    text-align: center;
+}
+.scores{
+    gap: 2rem;
+}
