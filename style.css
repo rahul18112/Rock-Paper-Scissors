@@ -3,6 +3,9 @@
     margin: 0px;
     
 }
+body{
+      background-color:aquamarine;
+}
 header{
     color: rgb(237, 246, 246);
     background-color: rgb(13, 25, 128);
