@@ -84,6 +84,9 @@ button{
 .scores{
     gap: 2rem;
 }
+img{
+    width: 200px;
+}
 @media(max-width:320px){
 img{
     width: 80px;
