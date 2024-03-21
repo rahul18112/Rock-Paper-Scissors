@@ -14,6 +14,7 @@ replayBut.addEventListener("click",()=>{
   comPara.innerText = comp_score;
   userPara.innerText = user_score;
   msg.innerText=" Welcome to playground";
+  msg.style.backgroundColor="darksalmon";
 })
 
 
