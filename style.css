@@ -67,7 +67,7 @@ button{
 .score_board{
     height: 4rem;
     width: 20rem;
-    background-color:rgb(13, 104, 73);
+    background-color:rgb(102,230,140);
     color: black;
     display:flex;
     justify-content: center;
