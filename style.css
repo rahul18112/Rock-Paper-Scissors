@@ -41,7 +41,7 @@ header{
 #message{
     height:3rem ;width: 30rem;
     background-color:darksalmon;
-    margin-left: 20rem;
+    margin-left: 25rem;
     text-align: center;
     line-height: 3rem;
     font-size: 40px;
@@ -54,8 +54,8 @@ button{
     height: 4rem;
     background-color: rgb(7, 85, 99);
     color:white;
-    margin-top: 1rem;
-    margin-left: 29rem;
+    margin-top: 2rem;
+    margin-left: 33rem;
     border: 2px solid black;
     /* border-color: rgb(22, 182, 182); */
     border-radius: 50%;
@@ -75,7 +75,7 @@ button{
     /* justify-self: center; */
     gap: 2rem;
     margin-top: 1rem;
-    margin-left: 25rem; 
+    margin-left: 30rem; 
      font-size:1.5rem; 
     /* font-weight: 500; */
     /* font-style: ; */
