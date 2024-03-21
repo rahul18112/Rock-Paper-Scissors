@@ -26,17 +26,20 @@ header{
 
 }
 #paper:hover{
-    opacity: 50%;
-     cursor: pointer;
+     opacity: 80%;
+    cursor: pointer;
+    transform: rotate(-90deg);
      /* if we want to see change the on moving curser then use  */ 
 }
 #rock:hover{
-    opacity: 50%;
+      opacity: 80%;
     cursor: pointer;
+    transform: rotate(-90deg);
 }
 #Scissors:hover{
-    opacity: 50%;
+     opacity: 80%;
     cursor: pointer;
+    transform: rotate(-90deg);
 }
 #message{
     height:3rem ;width: 30rem;
